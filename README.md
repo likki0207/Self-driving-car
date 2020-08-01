@@ -17,3 +17,5 @@ Run the following commands on Anaconda prompt:
 
 ## Before training
 ![before_training](https://user-images.githubusercontent.com/68856803/89097444-95670f00-d3fc-11ea-8e18-943b2c19a574.gif)
+
+## After training
