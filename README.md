@@ -6,7 +6,7 @@ Run the following commands on Anaconda prompt:
 * conda install -c peterjc123 pytorch-cpu
 * conda install -c conda-forge kivy
 
-## In this project there are two python files and one kivy file(Kivy is a free and open source Python library for developing mobile apps and other multitouch application software with a natural user interface (NUI)
+### In this project there are two python files and one kivy file(Kivy is a free and open source Python library for developing mobile apps and other multitouch application software with a natural user interface (NUI))
 (a) ai.py-> Here we will build the AI, this will be the deep Q-learning model.  This will contain the brain of the car
 
 (b) map.py-> In this we will build the environmenet containing the map, the car and all the other features required
