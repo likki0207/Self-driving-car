@@ -7,7 +7,10 @@ Run the following commands on Anaconda prompt:
 * conda install -c conda-forge kivy
 
 ## Here we are going to implement deep Q-learning model:
+
 ![a](https://user-images.githubusercontent.com/68856803/89107341-05ea4c00-d44e-11ea-81c2-4775a37fab56.png)
+![b](https://user-images.githubusercontent.com/68856803/89107397-7c874980-d44e-11ea-815b-8049d4793f49.png)
+
 
 ### In this project there are two python files and one kivy file(Kivy is a free and open source Python library for developing mobile apps and other multitouch application software with a natural user interface (NUI)):
 (a) ai.py-> Here we will build the AI, this will be the deep Q-learning model.  This will contain the brain of the car
