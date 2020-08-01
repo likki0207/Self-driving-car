@@ -19,3 +19,5 @@ Run the following commands on Anaconda prompt:
 ![before_training](https://user-images.githubusercontent.com/68856803/89097444-95670f00-d3fc-11ea-8e18-943b2c19a574.gif)
 
 ## After training
+![After_training](https://user-images.githubusercontent.com/68856803/89101105-bd656b00-d41a-11ea-9191-9cffc711cc1e.gif)
+
